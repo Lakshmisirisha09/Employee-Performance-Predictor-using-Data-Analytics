@@ -141,22 +141,6 @@ Employee-Performance-Predictor/
 └── .gitignore               # excludes env and outputs
 ```
 
-## 6. Installation Guide
-### Windows
-```powershell
-python -m venv venv
-venv\Scripts\activate
-pip install -r requirements.txt
-python main.py
-```
-
-### Mac/Linux
-```bash
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-python main.py
-```
 
 ## 7. Full Project Code
 The full working code is in:
@@ -200,18 +184,6 @@ The full working code is in:
    - accuracy and F1-score
    - sample prediction
 
-## 10. GitHub Upload Steps
-1. Create repository name: `employee-performance-predictor`
-2. Write a strong repo description: "Synthetic HR analytics and employee performance prediction using Python and machine learning."
-3. Add `README.md`, `.gitignore`, and source code
-4. Commit with messages like:
-   - `feat: add synthetic dataset generator`
-   - `feat: add ML pipeline and evaluation`
-   - `docs: update README with workflow and instructions`
-5. Push to GitHub
-6. Upload screenshot images to `images/`
-7. Add repository topics: `machine-learning`, `data-science`, `human-resources`, `employee-performance`, `python`
-
 ## 11. README Content
 This file already includes:
 - project overview
@@ -237,14 +209,6 @@ This file already includes:
 - `test: validate performance and evaluation outputs`
 - `docs: add README and instructions`
 
-## 13. Screenshots / Outputs to Capture
-- dataset preview table from `data/synthetic_employee_data.csv`
-- class distribution bar chart or counts
-- confusion matrix saved to `images/confusion_matrix.png`
-- printed accuracy and F1-score
-- predicted label for a sample employee
-
----
 
 ## Results from the sample run
 - Accuracy: ~0.84
