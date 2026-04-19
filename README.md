@@ -192,13 +192,7 @@ sample_employee = {
 - Web API for easy access to predictions
 - Dashboard for visualization and monitoring
 
-## Author
 
-Created as part of Employee Performance Analytics project.
-
-## License
-
-Open source - feel free to use and modify as needed.
 
 ---
 
