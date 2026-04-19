@@ -1,0 +1,2 @@
+age,gender,education_level,department,years_experience,training_hours,last_performance_rating,avg_monthly_hours,salary_level,promotion_last_5years,work_life_balance,overtime,predicted_performance_category
+29,Female,Master,IT,6,48,4,210,Medium,0,3,Yes,High Performer
